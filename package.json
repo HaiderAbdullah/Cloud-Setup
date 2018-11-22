@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-docs-samples",
+  "name": "Cloud-Setup",
   "description": "Node.js samples found on https://cloud.google.com",
   "version": "0.0.1",
   "license": "Apache-2.0",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoogleCloudPlatform/nodejs-docs-samples.git"
+    "url": "https://github.com/HaiderAbdullah/Cloud-Setup.git"
   },
-  "main": "src/index.js",
+  "main": "src/app.js",
   "private": true,
   "scripts": {
     "lint": "eslint '**/*.js'",
