@@ -32,7 +32,7 @@ export default class MainPage extends Component {
         let toggle = this.toggle
 
         users.forEach(function(arrayItem,arrayIndex,array){
-            if (array[arrayIndex].toLowerCase().match(input.toLowerCase())){
+          //  if (array[arrayIndex].toLowerCase().match(input.toLowerCase())){
             pos++
             test.push(
                 <tr>
